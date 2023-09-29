@@ -7,6 +7,9 @@ Welcome to the fantastic world of Vue/Nuxt development, sprinkled with Tailwind 
 ![Laravel Logo](https://laravel.com/img/logomark.min.svg)
 ![Express.js Logo](https://expressjs.com/images/express-facebook-share.png)
 
+<p align="center">
+  <img src="https://vuejs.org/images/logo.png" width="100" height="100" alt="Vue/Nuxt Logo">
+</p>
 ## 🎨 What's Inside?
 
 This repository is a treasure trove of frontend and backend wonders. We've got:

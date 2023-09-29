@@ -3,7 +3,7 @@
 Welcome to the fantastic world of Vue/Nuxt development, sprinkled with Tailwind CSS, and powered by the mighty Laravel and Express.js! 🚀
 
 ![Vue/Nuxt Logo](https://vuejs.org/images/logo.png)
-![Tailwind CSS Logo](https://tailwindcss.com/_next/static/media/twitter.00a6d6f6.png)
+![Tailwind CSS Logo](https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg)
 ![Laravel Logo](https://laravel.com/img/logomark.min.svg)
 ![Express.js Logo](https://expressjs.com/images/express-facebook-share.png)
 

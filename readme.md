@@ -1,5 +1,5 @@
 <!-- Title and Header -->
-<h1 align="center">🚀 Welcome to My Magical World of Web Development! 🌈</h1>
+<h1 align="center">🚀 Welcome to My Magical World of Web Development! 🚀</h1>
 
 <!-- Badges -->
 <p align="center">
@@ -12,26 +12,16 @@
 
 <!-- Project Description -->
 <p align="center">
-  Welcome to my GitHub portfolio! I'm a passionate Vue/Nuxt developer who loves crafting beautiful and interactive web experiences. With a sprinkle of Tailwind CSS for styling and the power of Laravel and Express.js for backend magic, I create web applications that bring ideas to life!
-</p>
-
-<!-- Table of Contents -->
-<h2 align="center">📚 Table of Contents</h2>
-
-- [Projects](#-projects)
-- [Skills](#-skills)
-- [About Me](#-about-me)
-- [Contact](#-contact)
-
+  Welcome to my GitHub portfolio! I'm a passionate Vue/Nuxt developer who loves crafting beautiful and interactive web experiences. With a sprinkle of Tailwind CSS for styling and the power of Laravel and Express.js for backend magic, I create web applications that bring ideas to life! I was experienced 2 Years for Vue and Laravel as Fullstack Developer
+</p> 
 <!-- Projects Section -->
-<h2 align="center">🚀 Projects</h2>
-
+<!-- <h2 align="center">🚀 Projects</h2>
 <p align="center">
   Check out my latest projects where I've wielded the powers of Vue/Nuxt, Tailwind CSS, Laravel, and Express.js to create web magic!
-</p>
+</p> -->
 
 <!-- Project Cards -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/yourusername/project1" target="_blank">
     <img src="project1-screenshot.jpg" alt="Project 1" width="300">
   </a>
@@ -41,39 +31,31 @@
   <a href="https://github.com/yourusername/project3" target="_blank">
     <img src="project3-screenshot.jpg" alt="Project 3" width="300">
   </a>
-</p>
+</p> -->
 
 <!-- Skills Section -->
-<h2 align="center">🛠️ Skills</h2>
+<!-- <h2 align="center">🛠️ Skills</h2>
 
 <p align="center">
   Here are some of the skills and technologies I'm proficient in:
-</p>
+</p> -->
 
 <!-- Skills Badges -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
-</p>
+</p> -->
 
 <!-- About Me Section -->
-<h2 align="center">🙋 About Me</h2>
+<h2 align="center">🌱 About Me</h2>
 
 <p align="center">
-  I'm a web enthusiast who believes in the power of code to transform ideas into reality. When I'm not coding, you can find me exploring new tech, sipping on coffee, or conjuring up new coding spells.
-</p>
-
-<!-- Contact Section -->
-<h2 align="center">📫 Contact</h2>
-
-<p align="center">
-  Let's connect and make some web magic together! Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com) or connect on [LinkedIn](https://linkedin.com/in/yourusername).
-</p>
-
+  I'm a web enthusiast who believes in the power of code to transform ideas into reality. When I'm not coding, you can find me exploring new tech, sipping on coffee, or conjuring up new coding spells. And I dont mind for learning new tech
+</p> 
 <!-- Footer -->
 <p align="center">
   🌟 Thanks for visiting! May your code always compile, and your designs be pixel-perfect! 🌟

@@ -3,6 +3,7 @@
 
 <!-- Badges -->
 <p align="center">
+  <img src="https://img.shields.io/badge/React.js-%2342b983.svg?&style=for-the-badge&logo=react.js&logoColor=white" alt="React.js Badge">
   <img src="https://img.shields.io/badge/Vue.js-%2342b983.svg?&style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js Badge">
   <img src="https://img.shields.io/badge/Nuxt.js-%2F009688.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js Badge">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
